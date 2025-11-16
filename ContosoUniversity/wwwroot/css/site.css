@@ -14,5 +14,59 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #000000;
+}
+
+a.navbar-brand {
+    color: #fff !important;
+}
+
+.table thead th {
+    color: white;
+}
+
+.table tbody td {
+    color: white;
+}
+.table th{
+    color:white;
+}
+/*Cores About*/
+table th {
+    color: #ffffff9e;
+}
+table td {
+    color: #ffffff9e;
+}
+/*Cores About*/
+
+
+
+/*Headers*/
+
+h2,h1,h4 {
+    color:white;
+}
+    /*Delete*/
+        h3{
+            color: red
+        }
+    /*Delete*/
+/*Headers*/
+
+label {
+    color: white;
+}
+
+.table th{
+    color: white;
+}
+
+dl dt{
+    color: #ffffff9e;
+}
+
+.col-sm-10{
+    color: red !important;
 }
